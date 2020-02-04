@@ -1,2 +1,2 @@
-# comunicati-stampa
+# comunicati stampa
 WikiComunicato
